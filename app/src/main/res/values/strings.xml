@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DocScan Pro</string>
+    <string name="scanner_mode_auto">AUTO-CAPTURE</string>
+    <string name="scanner_mode_manual">MANUAL</string>
+    <string name="hint_align_document">Align document within frame — locking onto 4 corners</string>
+    <string name="hint_hold_steady">Hold steady… Auto-capturing flat scan</string>
+    <string name="hint_adjust_corners">Drag corner handles to fine-tune document edges</string>
+    <string name="btn_capture">Capture Page</string>
+    <string name="btn_sample_scan">Load Sample Document</string>
+    <string name="btn_import_gallery">Import Photo</string>
+    <string name="btn_apply_crop">Warp &amp; Enhance</string>
+    <string name="btn_retake">Retake</string>
+    <string name="btn_rotate_left">Rotate Left</string>
+    <string name="btn_rotate_right">Rotate Right</string>
+    <string name="btn_export_pdf">Searchable PDF</string>
+    <string name="btn_export_jpeg">Save JPEGs</string>
+    <string name="btn_view_ocr">OCR Text</string>
+    <string name="btn_copy_ocr">Copy Text</string>
+    <string name="filter_crisp_bw">Crisp B&amp;W</string>
+    <string name="filter_magic_color">Magic Color</string>
+    <string name="filter_original">Original</string>
+    <string name="permission_camera_title">Camera Access Required</string>
+    <string name="permission_camera_rationale">DocScan Pro uses CameraX for real-time OpenCV 4-point contour detection and high-resolution flatbed document capture. You can also test the full pipeline using built-in sample documents or photo import.</string>
+    <string name="permission_grant_button">Grant Camera Permission</string>
+</resources>

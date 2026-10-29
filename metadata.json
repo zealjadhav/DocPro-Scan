@@ -1,0 +1,10 @@
+{
+  "name": "DocScan Pro",
+  "description": "Production-grade OpenCV & ML Kit document scanner with real-time 4-point contour detection, perspective correction, shadow-free Crisp B&W and Magic Color enhancement filters, multi-page batch management, and searchable PDF & JPEG export.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
